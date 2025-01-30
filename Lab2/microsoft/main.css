@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: white;
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    z-index: 1000;
+}
+
+.header .left-side {
+    display: flex;
+    align-items: center;
+}
+
+.header .left-side img {
+    height: 30px;
+    margin-right: 20px;
+}
+
+.header .left-side ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.header .left-side li {
+    margin-right: 15px;
+    color: black;
+    cursor: pointer;
+}
+
+.header .right-side ul.right {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    color: black;
+}
+
+.header .right-side li {
+    margin-right: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.header .right-side li i {
+    margin-left: 5px;
+}
+
+.main {
+    padding: 10px;
+}
+
+.main-content {
+    width: 100%;
+    height: 400px; 
+    background-image: url('copilot.jpeg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; 
+    text-align: center;
+}
+
+.text-book {
+    margin-right: 1000px;
+    margin-bottom: 100px;
+    margin-left: 40px;
+}
+
+.text-book h1{    
+    text-align: justify;
+    line-height: 35px;
+}
+
+.text-book p{    
+    text-align: justify;
+}
+
+.text-book button{    
+    width: 50%;
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+    padding: 13px;
+    background-color: rgb(77, 77, 242);
+}
+
+.text-book button {
+    margin-right: 250px;
+}
+
+.shops {
+    display: flex; 
+    justify-content: space-around; 
+    margin: 40px; 
+    text-align: center;
+    gap: 20px;
+}
+
+.shop-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.shops img {
+    width: 60px; 
+    height: auto; 
+    margin-bottom: 5px; 
+}
+
+.shops p {
+    font-size: 16px; 
+    color: #005FA4; 
+    font-weight: 600; 
+    margin: 0;
+    text-decoration: underline;
+}
+
+.other {
+    margin-top: 20px;
+    padding: 10px;
+    display: flex; 
+    justify-content: space-between; 
+}
+
+.shop {
+    width: 23%;
+    text-align: justify;
+    padding: 10px;
+    display: flex;
+    flex-direction: column; 
+}
+
+.shop img {
+    width: 100%; 
+    height: 180px;
+}
+
+.shop p {
+    width: 100%;
+}
+.shop a {
+    text-decoration: none;
+    color: rgb(77, 77, 242);
+    font-weight: bold;
+    display: block;
+    margin-top: auto; 
+    text-align: left; 
+}
