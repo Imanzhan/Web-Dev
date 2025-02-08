@@ -18,6 +18,8 @@ form{
     margin: -10vh 850px;
     border-radius: 5px;
     box-shadow: 5px 5px 6px -7px;
+    border: 1px dashed red;
+
 }
 input[type='text'], input[type='password']{
     display: block;
@@ -86,7 +88,7 @@ button{
     width: 350px;
     margin-left: 300px;
     margin-top: 30vh;
-    font-family: "Segoe UI", Roboto, "San Francisco";
+    font-family: "Segoe UI", Arial;
 }
 .f-container img{
     width: 250px;
