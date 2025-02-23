@@ -53,7 +53,7 @@ ul li {
     font-family: monospace;
     position: relative;
     padding: 12px 18px 12px 50px;
-    user-select: none;
+    /* user-select: none; */
     color: #FBE4D8;
     background-color: #404052;
     border-radius: 26px;
@@ -69,7 +69,6 @@ ul li::before {
     border-radius: 50%;
     background-size: cover;
     background-position: center;
-    background-image: url('src/unchecked.png');
     margin-top: -4px;
     top: 12px;
     left: 8px;
@@ -82,7 +81,6 @@ ul li.checked {
     font-style: italic;
 }
 ul li.checked::before {
-    background-image: url('src/checked.png');
     margin-top: -4px;
 }
 ul li span {

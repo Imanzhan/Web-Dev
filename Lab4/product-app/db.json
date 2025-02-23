@@ -2,83 +2,123 @@
     "products": [
         {
             "id": 0,
-            "image": "/assets/product10.jpg",
-            "name": "Cinnamoroll Plushie 70cm",
-            "description": "A soft and huggable Cinnamoroll plush toy. Made from high-quality plush material, measuring 70cm. A must-have for Sanrio fans.",
+            "name": "Веб-камера Logitech HD Webcam C270",
+            "photo": "/assets/images/Products/Веб-камера Logitech HD Webcam C270/Веб-камера Logitech HD Webcam C270.jpg",
+            "photo1": "/assets/images/Products/Веб-камера Logitech HD Webcam C270/Веб-камера Logitech HD Webcam C2701.jpg",
+            "photo2": "/assets/images/Products/Веб-камера Logitech HD Webcam C270/Веб-камера Logitech HD Webcam C2702.jpg",
             "rating": 5.0,
-            "link": "https://kaspi.kz/shop/p/mjagkaja-igrushka-sanrio-kawaii-cinnamoroll-vysota-70-sm-belyi-120599922/?m=4669008&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_10k-30k&gad_source=1&gclid=CjwKCAiAzba9BhBhEiwA7glbaoJSDjSXmUdQP-5Ppshb_rRcA-EEKluFmRvR1oyqonZ6ZpnziE9njBoCncgQAvD_BwE"
+            "link": "https://kaspi.kz/shop/p/logitech-hd-webcam-c270-9000118/?srsltid=AfmBOor3E8jwnLWrqYToOhxMJihRPTFS5pT0n7taXxE-lZ37VlOUY9My",
+            "linkText": "Link to the Kaspi",
+            "cost": 8.971,
+            "description": "Действительно простые видеовызовы в формате высокой четкости с разрешением 720p через большинство основных клиентов для обмена мгновенными сообщениями, включая Logitech Vid HD."
         },
         {
             "id": 1,
-            "image": "/assets/product20.jpeg",
-            "name": "Kuromi Pillow 100cm",
-            "description": "A soft and cozy Kuromi-themed pillow. Made from plush material, measuring 100cm. A perfect addition for comfort and decoration.",
-            "rating": 0,
-            "link": "https://kaspi.kz/shop/p/podushka-igrushka-kukuromi-vysota-100-sm-mul-tikolor-132551804/?m=30132688&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_10k-30k&gad_source=1&gclid=CjwKCAiAzba9BhBhEiwA7glbahD9JOildtwLbbouaJ1Q_Rjner01enESOQxkBgZaYO6YcjGsbsbv8BoCch4QAvD_BwE"
+            "name": "Игровой контроллер Logitech Driving Force Shifter черный",
+            "photo": "/assets/images/Products/Игровой контроллер Logitech Driving Force Shifter черный/Игровой контроллер Logitech Driving Force Shifter черный.jpg",
+            "photo1": "/assets/images/Products/Игровой контроллер Logitech Driving Force Shifter черный/Игровой контроллер Logitech Driving Force Shifter черный1.jpg",
+            "photo2": "/assets/images/Products/Игровой контроллер Logitech Driving Force Shifter черный/Игровой контроллер Logitech Driving Force Shifter черный2.jpg",
+            "rating": 5.0,
+            "link": "https://kaspi.kz/shop/p/logitech-driving-force-shifter-chernyi-13000077/?srsltid=AfmBOoqlNO0HUVAvCpj1yOfTITS1PRl4ZP1g_7Sr3_oRQQ6744Q_vQ31",
+            "linkText": "Link to the Kaspi",
+            "cost": 39.644,
+            "description": "Коробка передач Logitech Driving Force Shifter создана для того, чтобы сделать гоночные игры максимально реалистичными. Ее используют с рулями G920 (для Xbox One и ПК) и G29 (для PS4 и ПК) из той же серии."
         },
         {
             "id": 2,
-            "image": "/assets/product30.jpeg",
-            "name": "Sanrio Stationery Set",
-            "description": "A complete Sanrio-themed stationery set. Includes notebooks, stickers, pens, and more. Perfect for students and collectors alike.",
+            "name": "Игровой контроллер Logitech G29 Driving Force Racing Wheel черный",
+            "photo": "/assets/images/Products/Игровой контроллер Logitech G29 Driving Force Racing Wheel черный/Игровой контроллер Logitech G29 Driving Force Racing Wheel черный.jpg",
+            "photo1": "/assets/images/Products/Игровой контроллер Logitech G29 Driving Force Racing Wheel черный/Игровой контроллер Logitech G29 Driving Force Racing Wheel черный1.jpg",
+            "photo2": "/assets/images/Products/Игровой контроллер Logitech G29 Driving Force Racing Wheel черный/Игровой контроллер Logitech G29 Driving Force Racing Wheel черный2.jpg",
             "rating": 5.0,
-            "link": "https://kaspi.kz/shop/p/sanrio-kantseljarskii-nabor-sanrio-suvenirnyi-nabor-131402462/?c=750000000"
+            "link": "https://kaspi.kz/shop/p/logitech-g29-driving-force-racing-wheel-chernyi-13000007/?srsltid=AfmBOoozRfTC4iHNcM2m9ZZfamsOaDvfjwuUiYbTVpRZ4UedOIbu304z",
+            "linkText": "Link to the Kaspi",
+            "cost": 151.641,
+            "description": "Разработан для идеального вождения благодаря двухмоторной обратной связи по усилию, подрулевым лепесткам из нержавеющей стали и прошитому вручную кожаному рулю. Регулируемые напольные педали позволяют ускоряться, тормозить и переключать передачи с ощущением настоящего автомобиля."
         },
         {
             "id": 3,
-            "image": "/assets/product40.jpg",
-            "name": "Kuromi Slippers Purple",
-            "description": "Stylish and comfortable Kuromi slippers. Made from soft plush, perfect for indoor use. Available in a beautiful purple color.",
-            "rating": 5.0,
-            "link": "https://kaspi.kz/shop/p/tapochki-kuromi-567988947-fioletovyi-33-122477438/?c=750000000"
+            "name": "Клавиатура Logitech G213 Prodigy черный",
+            "photo": "/assets/images/Products/Клавиатура Logitech G213 Prodigy черный/Клавиатура Logitech G213 Prodigy черный.jpg",
+            "photo1": "/assets/images/Products/Клавиатура Logitech G213 Prodigy черный/Клавиатура Logitech G213 Prodigy черный1.jpg",
+            "photo2": "/assets/images/Products/Клавиатура Logitech G213 Prodigy черный/Клавиатура Logitech G213 Prodigy черный2.jpg",
+            "rating": 4.5,
+            "link": "https://kaspi.kz/shop/p/logitech-g213-prodigy-chernyi-9200432/?srsltid=AfmBOooxtbWzV4fTvT6XnY4FP_C_K-nWIaYbWvuxckK7095vLMCE-1wQ",
+            "linkText": "Link to the Kaspi",
+            "cost": 38.164,
+            "description": "Игровая клавиатура G213 оснащена клавишами Logitech G Mech-Dome с особой настройкой, обеспечивающей отличный тактильный отклик и стабильную высокую производительность на уровне механических клавиатур."
         },
         {
             "id": 4,
-            "image": "/assets/product50.jpg",
-            "name": "Kuromi Quartz Watch Steel",
-            "description": "A sleek Kuromi quartz watch. Made of durable stainless steel, suitable for daily wear. A great gift for Sanrio enthusiasts.",
+            "name": "Клавиатура Logitech K380 920-007584 серый",
+            "photo": "/assets/images/Products/Клавиатура Logitech K380 920-007584 серый/Клавиатура Logitech K380 920-007584 серый.jpg",
+            "photo1": "/assets/images/Products/Клавиатура Logitech K380 920-007584 серый/Клавиатура Logitech K380 920-007584 серый1.jpg",
+            "photo2": "/assets/images/Products/Клавиатура Logitech K380 920-007584 серый/Клавиатура Logitech K380 920-007584 серый2.jpg",
             "rating": 5.0,
-            "link": "https://kaspi.kz/shop/p/kvartsevye-kuromi-kuromi-stal--117109608/?c=750000000"
+            "link": "https://kaspi.kz/shop/p/logitech-k380-920-007584-seryi-9200752/?srsltid=AfmBOopOk4iwPnGcb6pjSJ_XL4eiIgY8nH6tNzXgwo6VgUH_5Q8yhg08",
+            "linkText": "Link to the Kaspi",
+            "cost": 18.520,
+            "description": "Перед Вами максимально удобная в процессе эксплуатации клавиатура беспроводная для планшета Logitech K380. С помощью представленного устройства Вы сможете быстро вводить текст на своем планшете или смартфоне точно так же, как и на ноутбуке или на ПК. Модель Logitech K380 спроектирована с большой скрупулезностью инженерами бренда Logitech, профиль которого – изготовление первоклассных клавиатур, пультов дистанционного управления, веб-камер и прочих вспомогательных компьютерных аксессуаров. Logitech K380 – это универсальная клавиатура, которая совместима с большим количеством ОС, что делает ее особенно заманчивой для приобретения. Отличительной особенностью клавиатуры является то, что она является компактной. За счет этого Вы с легкостью сможете использовать ее не только дома, но и за его пределами. Конструкция клавиатуры предусматривает присутствие 80 клавиш. Питание прибора осуществляется от двух батареек типа ААА. При этом клавиатура обладает крайне низким энергопотреблением. Длительность работы от батареек составляет 2 года."
         },
         {
             "id": 5,
-            "image": "/assets/product60.jpg",
-            "name": "Kuromi Keychain",
-            "description": "A cute Kuromi keychain for fans. Made of quality plastic and rubber, perfect for bags, keys, or as a collectible accessory.",
-            "rating": 4.0,
-            "link": "https://kaspi.kz/shop/p/brelok-kuromi-51214831-plastik-rezina-1-sht-117168550/?c=750000000"
+            "name": "Мышь Logitech G Pro X Superlight 2 розовый",
+            "photo": "/assets/images/Products/Мышь Logitech G Pro X Superlight 2 розовый/Мышь Logitech G Pro X Superlight 2 розовый.jpg",
+            "photo1": "/assets/images/Products/Мышь Logitech G Pro X Superlight 2 розовый/Мышь Logitech G Pro X Superlight 2 розовый1.jpg",
+            "photo2": "/assets/images/Products/Мышь Logitech G Pro X Superlight 2 розовый/Мышь Logitech G Pro X Superlight 2 розовый2.jpg",
+            "rating": 5.0,
+            "link": "https://kaspi.kz/shop/p/logitech-g-pro-x-superlight-2-rozovyi-113957944/?srsltid=AfmBOopNW9AySODhp4MaIEeXsfNwVZtNapPbdJMuVVBohYsbE44Y7SU1",
+            "linkText": "Link to the Kaspi",
+            "cost": 74.924,
+            "description": "Мышь Logitech G Pro X Superlight 2 розовый."
         },
         {
             "id": 6,
-            "image": "/assets/product70.jpg",
-            "name": "Cinnamoroll Sticker Box",
-            "description": "A set of adorable Cinnamoroll stickers. Ideal for decorating notebooks, laptops, and more. A great choice for Sanrio lovers.",
-            "rating": 5.0,
-            "link": "https://kaspi.kz/shop/p/korobka-cinnamoroll-16810029-306614756-60-117716132/?c=750000000"
+            "name": "Мышь Logitech G102 Lightsync черный",
+            "photo": "/assets/images/Products/Мышь Logitech G102 Lightsync черный/Мышь Logitech G102 Lightsync черный.jpg",
+            "photo1": "/assets/images/Products/Мышь Logitech G102 Lightsync черный/Мышь Logitech G102 Lightsync черный1.jpg",
+            "photo2": "/assets/images/Products/Мышь Logitech G102 Lightsync черный/Мышь Logitech G102 Lightsync черный2.jpg",
+            "rating": 4.8,
+            "link": "https://kaspi.kz/shop/p/logitech-g102-lightsync-chernyi-100956618/?srsltid=AfmBOooj2osd75NQZ2uMvGXAN-i5ZBuOKLCPiEZld0d5FHOvnKCJkO2y",
+            "linkText": "Link to the Kaspi",
+            "cost": 9.043,
+            "description": "Мышь проводная Logitech G102 LightSync позволяет играть с максимальной эффективностью. В мышке применяется датчик игрового уровня с чувствительностью 8000 dpi, регулируемой в широком диапазоне отдельной кнопкой. Logitech G102 LightSync оснащена 6 программируемыми кнопками. В левой и правой кнопках используется металлический пружинный механизм для исключительно точного срабатывания."
         },
         {
             "id": 7,
-            "image": "/assets/product80.jpg",
-            "name": "Plushie Pompompurin",
-            "description": "A soft and cuddly Pompompurin plushie. Features an adorable outfit, making it a must-have for collectors and Sanrio fans.",
+            "name": "Мышь Logitech MX Master 3S 910-006559 черный",
+            "photo": "/assets/images/Products/Мышь Logitech MX Master 3S 910-006559 черный/Мышь Logitech MX Master 3S 910-006559 черный.jpg",
+            "photo1": "/assets/images/Products/Мышь Logitech MX Master 3S 910-006559 черный/Мышь Logitech MX Master 3S 910-006559 черный1.jpg",
+            "photo2": "/assets/images/Products/Мышь Logitech MX Master 3S 910-006559 черный/Мышь Logitech MX Master 3S 910-006559 черный2.jpg",
             "rating": 5.0,
-            "link": "https://kaspi.kz/shop/p/mjagkaja-igrushka-hello-kitty-pompompurin-japonskaja-s-odezhdoi-vysota-20-sm-zheltyi-114870874/?c=750000000"
+            "link": "https://kaspi.kz/shop/p/logitech-mx-master-3s-910-006559-chernyi-106172365/?srsltid=AfmBOoptVvgGbwUO2xW2IY4zKAt8Fi8xhL-Oer41Dwk4xuG7X60IQcNN",
+            "linkText": "Link to the Kaspi",
+            "cost": 46.900,
+            "description": "Мышь Logitech MX Master 3S 910-006559 черный."
         },
         {
             "id": 8,
-            "image": "/assets/product90.jpg",
-            "name": "Pompompurin Constructor",
-            "description": "A fun 300-piece Pompompurin construction set. Great for creative play and display. A wonderful collectible for puzzle lovers.",
-            "rating": 0,
-            "link": "https://kaspi.kz/shop/p/hello-kitty-pompompurin-15900-detalei-300-sht-122644548/?c=750000000"
+            "name": "Наушники Logitech G435 фиолетовый",
+            "photo": "/assets/images/Products/Наушники Logitech G435 фиолетовый/Наушники Logitech G435 фиолетовый.jpg",
+            "photo1": "/assets/images/Products/Наушники Logitech G435 фиолетовый/Наушники Logitech G435 фиолетовый1.jpg",
+            "photo2": "/assets/images/Products/Наушники Logitech G435 фиолетовый/Наушники Logitech G435 фиолетовый2.jpg",
+            "rating": 4.7,
+            "link": "https://kaspi.kz/shop/p/logitech-g435-fioletovyi-107183308/?srsltid=AfmBOopYUrKvUhG7qJbkaKdwrkxemnZGwWk4zRKGTzzSK0ZrIqIqzPG2",
+            "linkText": "Link to the Kaspi",
+            "cost": 36.489,
+            "description": "Оснащенная мягкими амбушюрами и регулируемым оголовьем радиочастотная гарнитура Logitech G435 LIGHTSPEED исключительно комфортна. Эксплуатация устройства в течение многих часов подряд не доставит пользователю неудобств."
         },
         {
             "id": 9,
-            "image": "/assets/product100.jpg",
-            "name": "Hello Kitty Pillow Toy",
-            "description": "A charming Hello Kitty pillow toy. Soft, huggable, and 50cm in size. A perfect combination of comfort and decoration. Perfect present for valentine!",
+            "name": "Наушники Logitech G PRO X черный",
+            "photo": "/assets/images/Products/Наушники Logitech G PRO X черный/Наушники Logitech G PRO X черный.jpg",
+            "photo1": "/assets/images/Products/Наушники Logitech G PRO X черный/Наушники Logitech G PRO X черный1.jpg",
+            "photo2": "/assets/images/Products/Наушники Logitech G PRO X черный/Наушники Logitech G PRO X черный2.jpg",
             "rating": 5.0,
-            "link": "https://kaspi.kz/shop/p/podushka-igrushka-hello-kitty-vysota-50-sm-belyi-rozovyi-107449696/?c=750000000"
+            "link": "https://kaspi.kz/shop/p/logitech-g-pro-x-chernyi-9200434/?srsltid=AfmBOopYUrKvUhG7qJbkaKdwrkxemnZGwWk4zRKGTzzSK0ZrIqIqzPG2",
+            "linkText": "Link to the Kaspi",
+            "cost": 74.924,
+            "description": "Наушники Logitech G PRO X черный."
         }
     ]
 }
